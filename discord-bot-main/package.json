@@ -1,0 +1,19 @@
+{
+  "name": "v14-bot",
+  "version": "1.0.0",
+  "main": "./src/index.js",
+  "dependencies": {
+    "@discordjs/voice": "^0.18.0",
+    "axios": "^1.8.4",
+    "date-fns": "^4.1.0",
+    "discord.js": "^14.18.0"
+  },
+  "devDependencies": {
+    "mocha": "^10.2.0",
+    "chai": "^4.3.8"
+  },
+  "scripts": {
+    "test": "mocha --recursive tests",
+    "register:ticket": "node scripts/register-ticket-commands.js"
+  }
+}

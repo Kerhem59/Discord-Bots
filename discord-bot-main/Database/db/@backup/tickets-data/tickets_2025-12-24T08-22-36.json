@@ -1,0 +1,33 @@
+{
+  "_meta": {
+    "counter": 2
+  },
+  "ticket-1": {
+    "id": 1,
+    "name": "ticket-1",
+    "ownerId": "owner1",
+    "channelId": "c1",
+    "status": "open",
+    "claimedBy": null,
+    "participants": [
+      "owner1"
+    ],
+    "createdAt": "2025-12-23T20:22:24.582Z",
+    "reason": "r",
+    "transcript": null
+  },
+  "ticket-2": {
+    "id": 2,
+    "name": "ticket-2",
+    "ownerId": "643002216638316555",
+    "channelId": "1453120713186611250",
+    "status": "closed",
+    "claimedBy": "1081439422010101781",
+    "participants": [
+      "643002216638316555"
+    ],
+    "createdAt": "2025-12-23T20:22:54.247Z",
+    "reason": "Sikici KAdr9",
+    "transcript": "C:\\Users\\Seval\\OneDrive\\Masaüstü\\1\\discord-bot-main\\Database\\db\\tickets\\transcripts\\ticket-2_2025-12-23T20-23-28.json"
+  }
+}

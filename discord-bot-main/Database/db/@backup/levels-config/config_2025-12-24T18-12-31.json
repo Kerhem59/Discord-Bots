@@ -1,0 +1,7 @@
+{
+  "gcfg": {
+    "enabled": false,
+    "announceChannelId": null,
+    "announceOnLevelUp": true
+  }
+}

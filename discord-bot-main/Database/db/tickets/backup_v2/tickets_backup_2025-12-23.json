@@ -1,0 +1,34 @@
+{
+  "ticket-1": {
+    "ownerId": "643002216638316555",
+    "channelId": "1453099734028910655",
+    "status": "closed",
+    "claimedBy": "643002216638316555",
+    "createdAt": "2025-12-23T18:59:32.654Z",
+    "reason": "sasa"
+  },
+  "ticket-2": {
+    "ownerId": "643002216638316555",
+    "channelId": "1453100087017209996",
+    "status": "closed",
+    "claimedBy": "643002216638316555",
+    "createdAt": "2025-12-23T19:00:56.917Z",
+    "reason": "sasa"
+  },
+  "ticket-3": {
+    "ownerId": "643002216638316555",
+    "channelId": "1453100632855810321",
+    "status": "closed",
+    "claimedBy": null,
+    "createdAt": "2025-12-23T19:03:07.003Z",
+    "reason": "saasdasdasdasdafs"
+  },
+  "ticket-4": {
+    "ownerId": "643002216638316555",
+    "channelId": "1453101131289989331",
+    "status": "closed",
+    "claimedBy": "643002216638316555",
+    "createdAt": "2025-12-23T19:05:05.136Z",
+    "reason": ""
+  }
+}

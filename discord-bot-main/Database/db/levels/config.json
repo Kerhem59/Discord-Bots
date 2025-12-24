@@ -1,0 +1,10 @@
+{
+  "gcfg": {
+    "enabled": false,
+    "announceChannelId": null,
+    "announceOnLevelUp": true
+  },
+  "1201659126468591696": {
+    "announceChannelId": "1201659128850677784"
+  }
+}

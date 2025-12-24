@@ -1,0 +1,11 @@
+{
+"afk/data":"./db/afk-data/afk.json",
+"tickets/data":"./db/tickets/tickets.json",
+"tickets/transcripts":"./db/tickets/transcripts",
+"tickets/backup":"./db/tickets/backup_v3",
+
+"levels/data":"./db/levels/data.json",
+"levels/config":"./db/levels/config.json",
+"levels/rewards":"./db/levels/rewards.json"
+
+} 

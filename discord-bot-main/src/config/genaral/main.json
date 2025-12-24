@@ -1,0 +1,20 @@
+{
+    "MainBotToken": "MTQ1MjI2MTE5OTk2NTMyMzQ0OA.GsXM5M.uoLpUgU7KnFX11NYHkb-f2QHDSjfpVbqD9biYY",
+    "MainBotID": "1452261199965323448",
+    "VoiceChannelID":"Ses-Kanalı-(Opsiyonel)",
+    "ServerID": "1201659126468591696",
+    "ServerName": "Şekermi Şakamı",
+    "prefix": [
+        "."
+    ],
+    "Activity": ["Test", "Deneme", "Başka aktivite"],
+    "TicketSystem": {
+        "enabled": true,
+        "SupportRoleID": "",
+        "TicketCategoryID": "",
+        "PanelChannelID": "",
+        "PanelEmbedColor": "#2f3136",
+        "AutoTranscript": true,
+        "AutoRegister": false
+    }
+}

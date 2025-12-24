@@ -1,0 +1,75 @@
+{
+  "_meta": {
+    "counter": 5
+  },
+  "ticket-1": {
+    "id": 1,
+    "name": "ticket-1",
+    "ownerId": "643002216638316555",
+    "channelId": "1453099734028910655",
+    "status": "closed",
+    "claimedBy": "643002216638316555",
+    "participants": [
+      "643002216638316555"
+    ],
+    "createdAt": "2025-12-23T18:59:32.654Z",
+    "reason": "sasa",
+    "transcript": null
+  },
+  "ticket-2": {
+    "id": 2,
+    "name": "ticket-2",
+    "ownerId": "643002216638316555",
+    "channelId": "1453100087017209996",
+    "status": "closed",
+    "claimedBy": "643002216638316555",
+    "participants": [
+      "643002216638316555"
+    ],
+    "createdAt": "2025-12-23T19:00:56.917Z",
+    "reason": "sasa",
+    "transcript": null
+  },
+  "ticket-3": {
+    "id": 3,
+    "name": "ticket-3",
+    "ownerId": "643002216638316555",
+    "channelId": "1453100632855810321",
+    "status": "closed",
+    "claimedBy": null,
+    "participants": [
+      "643002216638316555"
+    ],
+    "createdAt": "2025-12-23T19:03:07.003Z",
+    "reason": "saasdasdasdasdafs",
+    "transcript": null
+  },
+  "ticket-4": {
+    "id": 4,
+    "name": "ticket-4",
+    "ownerId": "643002216638316555",
+    "channelId": "1453101131289989331",
+    "status": "closed",
+    "claimedBy": "643002216638316555",
+    "participants": [
+      "643002216638316555"
+    ],
+    "createdAt": "2025-12-23T19:05:05.136Z",
+    "reason": "",
+    "transcript": null
+  },
+  "ticket-5": {
+    "id": 5,
+    "name": "ticket-5",
+    "ownerId": "643002216638316555",
+    "channelId": "1453103830739845293",
+    "status": "open",
+    "claimedBy": null,
+    "participants": [
+      "643002216638316555"
+    ],
+    "createdAt": "2025-12-23T19:15:49.653Z",
+    "reason": "",
+    "transcript": null
+  }
+}
